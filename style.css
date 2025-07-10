@@ -4,14 +4,11 @@ margin: 0;
 padding: 0;
 font-family: "Merriweather", "Poppins";
 box-sizing: border-box;   
-/* height of element will include both height of padding and border */
 }
 .container{
 width: 100%;
 min-height: 100vh;
-/* height will never be shorter than 100 vh */
 background: linear-gradient(180deg, #8be3f3, #123458);
-/* A linear gradient is a gradual transition between two or more colors along a straight line */
 padding: 10px;
 }
 .todoapp{
