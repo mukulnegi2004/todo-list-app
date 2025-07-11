@@ -19,13 +19,12 @@ padding: 10px;
     max-width: 540px;
     background-color: white;
     margin: 100px auto 20px;
-    padding: 40px 0px 70px;
+    padding: 40px 30px 70px;
     border-radius: 10px;
     border: 3px solid black;
 }
 .todoapp h2{
     color: black;
-    margin-left: 2.5rem;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -110,4 +109,13 @@ ul li span{
 ul li span:hover{
     background: rgb(150, 150, 206);
    
+}
+
+@media (max-width: 477px) {
+    .todoapp{
+        padding: 40px 0px 70px;
+    }
+    .todoapp h2{
+        margin-left: 2.5rem; 
+    }
 }
