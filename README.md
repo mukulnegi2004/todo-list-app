@@ -44,10 +44,16 @@ This project was created to:
 
 ---
 
+## 🚀 Live Demo
+
+[Click here to view the live project](https://mukulnegi2004.github.io/todo-list-app/)
+
+---
+
 ## 📬 Connect with Me
 
 - 💼 [GitHub](https://github.com/mukulnegi2004)
-- 💬 [LinkedIn](https://linkedin.com/in/your-link)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
 - 📫 Email: mannunegi126@gmail.com
 
 ---
