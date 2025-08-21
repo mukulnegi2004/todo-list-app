@@ -53,7 +53,7 @@ This project was created to:
 ## 📬 Connect with Me
 
 - 💼 [GitHub](https://github.com/mukulnegi2004)
-- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-431039378/)
 - 📫 Email: mannunegi126@gmail.com
 
 ---
